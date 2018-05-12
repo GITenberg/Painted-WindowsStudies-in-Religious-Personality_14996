@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5055
     wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14996#Painted-WindowsStudies-in-Religious-Personality
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
