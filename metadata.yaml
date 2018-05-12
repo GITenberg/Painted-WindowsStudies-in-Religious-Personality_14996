@@ -1,0 +1,50 @@
+_repo: Painted-WindowsStudies-in-Religious-Personality_14996
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lake, Kirsopp
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '34429'
+    url: http://www.gutenberg.org/2009/agents/34429
+  illustrator:
+    agent_name: Verpilleux, Emile
+    alias: Verpilleux, Emile Antoine
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '37507'
+    url: http://www.gutenberg.org/2009/agents/37507
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Begbie, Harold
+    alias: Begbie, Edward Harold
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '5055'
+    url: http://www.gutenberg.org/2009/agents/5055
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Harold_Begbie
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14996'
+  lccn: '22006538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Clergy -- England'
+tableOfContents: Bishop Gore -- Dean Inge -- Father Knox -- Dr. L.P. Jacks -- Bishop
+  Hensley Henson -- Miss Maude Royden -- Canon E.W. Barnes -- General Bramwell Booth
+  -- Dr. W.E. Orchard -- Bishop Temple -- Principal W.B. Selbie -- Archbishop Randall
+  Davidson -- Conclusion.
+title: 'Painted Windows
+
+  Studies in Religious Personality'
+url: http://www.gutenberg.org/ebooks/14996
